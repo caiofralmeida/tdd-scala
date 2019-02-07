@@ -1,0 +1,12 @@
+# Compiled source #
+###################
+*.com
+*.class
+
+#Compiled target packages
+######################
+target/
+project/target/
+.idea/
+.idea
+.idea/workspace.xml
